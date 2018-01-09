@@ -1,0 +1,53 @@
+aboutPage: true
+
+# - markdown: redcarpet
+highlighter: rouge
+
+domain_# - name: "http://[HOSTNAME]"
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_short# - name: 'your-disqus-shortname'
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
+
+title: "Jimmy Reekes III"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/jmreekes\">@jmreekes on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/jmreekes\">@jmreekes on Micro.blog</a>."
+baseurl: ""
+url: "https://www.jmreekes.com"
+markdown: "kramdown"
+username: "jmreekes"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Jimmy Reekes III"
+name: "Jimmy Reekes III"
+gravatar_hash: "666e079c07ee250d1e701eccc23cb09c"
+avatar: "https://micro.blog/jmreekes/avatar.jpg"
+full_name: "Jimmy Reekes III"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "US/Michigan"
+site_id: "2084"
