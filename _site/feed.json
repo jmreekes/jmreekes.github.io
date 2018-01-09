@@ -1,0 +1,57 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Jimmy Reekes III",
+	"home_page_url": "https://www.jmreekes.com/",
+	"feed_url": "https://www.jmreekes.com/feed.json",
+	"items": [
+		
+		{
+			"id": "http://jmreekes.micro.blog/2018/01/08/ive-been-thinking.html",
+	      	
+			"content_html": "<p>I’ve been thinking about what to do with my micro.blog. One of the first things I thought of is to do a travel journal of sorts of the interesting/unique/un-known airports I travel to. We all know of Cleveland, Ohio but how many know of Cleveland, Texas or Cleveland, Mississippi</p>\n",
+			"date_published": "2018-01-07T23:07:00-05:00",
+			"url": "https://www.jmreekes.com/2018/01/07/ive-been-thinking.html"
+		},
+		
+		{
+			"id": "http://jmreekes.micro.blog/2018/01/05/picture-of-the.html",
+	      	
+			"content_html": "<p>Picture of the sunset on New Year’s Eve from Nassau, Bahamas. </p>\n\n<p><img src=\"http://jmreekes.micro.blog/uploads/2018/a3597d8457.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-04T23:06:00-05:00",
+			"url": "https://www.jmreekes.com/2018/01/04/picture-of-the.html"
+		},
+		
+		{
+			"id": "http://jmreekes.micro.blog/2017/12/29/this-is-a.html",
+	      	
+			"content_html": "<p><em>This</em> is a <strong>simple</strong> test to verify MarsEdit is publishing correctly.</p>\n",
+			"date_published": "2017-12-29T11:48:00-05:00",
+			"url": "https://www.jmreekes.com/2017/12/29/this-is-a.html"
+		},
+		
+		{
+			"id": "http://jmreekes.micro.blog/2017/12/28/i-finished-moving.html",
+	      	
+			"content_html": "<p>I finished moving everything to FastMail yesterday. Gmail, iCloud, and my junk Yahoo account are all forwarding to FastMail, I have Gmail and iCloud sending identities setup so I can send using Gmail and iCloud SMTP servers. Calendars and Contacg have been moved as well. </p>\n",
+			"date_published": "2017-12-28T11:41:00-05:00",
+			"url": "https://www.jmreekes.com/2017/12/28/i-finished-moving.html"
+		},
+		
+		{
+			"id": "http://jmreekes.micro.blog/2017/12/25/we-saw-a.html",
+	      	
+			"content_html": "<p>We saw a Santa in a bass boat inflatable tonight while riding and looking at Christmas lights. Alistair (my 4 yr. old son) looks at it and says “Granddaddy’s boat is bigger”</p>\n",
+			"date_published": "2017-12-24T20:49:00-05:00",
+			"url": "https://www.jmreekes.com/2017/12/24/we-saw-a.html"
+		},
+		
+		{
+			"id": "http://jmreekes.micro.blog/2017/12/19/testing-out-out.html",
+	      	
+			"content_html": "<p>Testing out out <a href=\"micro.blog\">Micro.blog</a> for the first time. </p>\n",
+			"date_published": "2017-12-19T15:13:00-05:00",
+			"url": "https://www.jmreekes.com/2017/12/19/testing-out-out.html"
+		}
+		
+	]
+}
