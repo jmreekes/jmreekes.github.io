@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jmreekes.micro.blog/2018/01/10/i-dont-know.html",
+	      	
+			"content_html": "<p>I don’t know why I hadn’t read any of the Jack Reacher novels before, but I don’t want to put down Killing Floor. 📚</p>\n",
+			"date_published": "2018-01-09T23:35:00-05:00",
+			"url": "https://www.jmreekes.com/2018/01/09/i-dont-know.html"
+		},
+		
+		{
 			"id": "http://jmreekes.micro.blog/2018/01/08/ive-been-thinking.html",
 	      	
 			"content_html": "<p>I’ve been thinking about what to do with my micro.blog. One of the first things I thought of is to do a travel journal of sorts of the interesting/unique/un-known airports I travel to. We all know of Cleveland, Ohio but how many know of Cleveland, Texas or Cleveland, Mississippi</p>\n",
