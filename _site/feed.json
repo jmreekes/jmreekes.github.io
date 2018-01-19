@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jmreekes.micro.blog/2018/01/19/heres-a-picture.html",
+	      	
+			"content_html": "<p>Here’s a picture I took a few weeks ago on approach into Telluride, Colorado (KTEX). I promise there is a runway in the picture.</p>\n<p><img src=\"http://www.jmreekes.com/uploads/2018/15dbc514e6.jpg\" width=\"500\" /></p>\n",
+			"date_published": "2018-01-19T11:30:00-05:00",
+			"url": "https://www.jmreekes.com/2018/01/19/heres-a-picture.html"
+		},
+		
+		{
 			"id": "http://jmreekes.micro.blog/2018/01/10/i-dont-know.html",
 	      	
 			"content_html": "<p>I don’t know why I hadn’t read any of the Jack Reacher novels before, but I don’t want to put down Killing Floor. 📚</p>\n",
@@ -79,16 +87,6 @@
 			"content_html": "<p><a href=\"https://twitter.com/sethclifford?lang=en\">Seth Clifford</a> has started using <a href=\"https://geo.itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8&amp;uo=4&amp;at=1l3vx9E\">Slack</a> as a <a href=\"http://sethclifford.me/2016/07/an-update-on-how-im-using-my-private-slack-team/\">personal information center</a> and it is one of the best uses for Slack that I have seen. I'm a member of a few Slack teams and spend a fair bit of time in Slack, so Seth's idea of using Slack as a personal information center just clicked and I was like \"Why didn't I think of this before?\"</p>\n\n<p>I like the channel layout and usage Seth describes and I used that as a basis for my personal Slack.  The channels I'm currently using are:</p>\n\n<ul>\n    <li>alerts: Twitter follower notifications (via IFTTT) are the only alerts I have set here right now but I&#039;m in the process of adding more. </li>\n    <li>blogposts: This serves the exact purpose that Seth describes in his article, an easy reference for any blog posts I publish. </li>\n    <li>daily: This one is borrowed from Seth&#039;s article. I like the concept of it, but I&#039;m not sure if it&#039;s for me. I have no work projects or deadlines that I have to worry about, and what minor house projects I do have are kept in 2Do and don&#039;t have a due date. The only thing I&#039;m using this channel for right now is to keep track of any new calendar events or changes to current ones, so I may rename this channel to calendar.</li>\n    <li>nuzzle: Any notifications from Nuzzel are sent here. </li>\n    <li>pricedrops: Tweets from <a href=\"https://mobile.twitter.com/MacStoriesDeals\">@MacStoriesDeals</a> are sent here via IFTTT.</li>\n    <li>snippets: Random quotes or bits of info are stored here.</li>\n    <li>video: YouTube links that I come across that I may want to watch later are stored or copied here. I was using Drafts for this, but I like Slack better for this because Slack shows the title of the video in the posted link. </li>\n</ul>\n\n<p>I love the idea of using Slack to keep track of alerts and notifications because I can view all the alerts I've received without having to worry about an alert disappearing from Notification Center and not being able to find the information or article that was in that alert. My personal Slack is still a work in progress but I'm really happy with it so far.</p>\n\n<p>I would love to know if you use Slack as a personal information center and how you use it. Thanks for reading.</p>\n",
 			"date_published": "2016-07-19T08:17:00-05:00",
 			"url": "https://www.jmreekes.com/2016/07/19/slack-as-a.html"
-		},
-		
-		{
-			"id": "http://jmreekes.micro.blog/2016/06/07/refreshed-in-the.html",
-	      	
-			"title": "Refreshed in the Wind",
-			
-			"content_html": "<p>I have always enjoyed watching airplanes take off and land, and fly overhead. As a kid, whenever we drove past an airport I remember looking as hard as I could in the hopes I would see an airplane, even if I knew I wouldn’t see one.<sup><a id=\"ffn1\" class=\"footnote\" href=\"#fn1\">1</a></sup>  I can remember my dad stopping on the side of the road to let me watch a plane take off or land. My son is the same way I was as a kid, and yes, I have stopped the car to let him watch an airplane. Why do we do this? I was reminded earlier of a quote from one of my favorite books that I think perfectly describes why.</p>\n\n<blockquote>“\"...Here, refreshed in the wind, I rediscover what I had previously held to be certain truths. I again become aware that no pilot alive can resist watching a plane take oﬀ or land. He may pass a motionless airplane without noticing it, but the moment his ears detect the ﬁrst burst of power from a plane, however distant, he will turn his head regardless of everything else around him and watch it. \"He will also rudely break oﬀ in the middle of a conversation to watch a plane landing, though there may be a constant ﬂow of them. From observance of such activity he enjoys an abiding satisfaction, as basic and everlasting as that found by a deep-sea sailor on his obligatory pilgrimage to the nearest harbor...\"”\n\n— Ernest Gann in Fate Is The Hunter</blockquote>\n\n<p>The “refreshed in the wind” line has always stuck with me, because of a feeling I sometimes get at airports when the wind is just right. It is a feeling of calm and peace, and it is in those times that I’m grateful that I am able to do what I love. I don’t know why I get this feeling when the wind is a certain way, I just do. I get this feeling the strongest on clear days, when the temperature is around 75 to 80°F, and the wind is about 5 to 10 knots. When I get this feeling all I want to do is stop and watch the airplanes take off and land, and simply take in the sights, sounds, smells, and as crazy as it may sound to some, the beauty of the airport. As stressful as my job can get, it is in these times that I am refreshed in the wind, that I can’t imagine doing anything else.</p>\n\n<ol id=\"footnotes\">\n    <li id=\"fn1\">Who am I kidding, I still do it as an adult. <a href=\"#ffn1\">↩</a></li>\n</ol>\n",
-			"date_published": "2016-06-07T13:39:00-05:00",
-			"url": "https://www.jmreekes.com/2016/06/07/refreshed-in-the.html"
 		}
 		
 	]
