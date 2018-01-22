@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://jmreekes.micro.blog/2018/01/22/refueling-flight.html",
+	      	
+			"title": "Refueling Flight",
+			
+			"content_html": "<p>These aren’t exactly travel photos, but photos of one of the coolest things I’ve ever gotten the opportunity to do. Back when I was flight instructing, we got a call out of the blue from somebody from the nearby Air Force Base asking if we could do a flight for an actor that was in town for an event at the base and we said yes. After the flight, the gentleman from the Air Force Base told me he had set me up on an incentive flight on a refueling flight. I rode on a KC-135R and we refueled 2 F-15Es off the coast of North Carolina. </p>\n\n<p><img src=\"http://www.jmreekes.com/uploads/2018/08f0a05e12.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.jmreekes.com/uploads/2018/bc8019df86.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.jmreekes.com/uploads/2018/877746e370.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-01-22T10:28:00-05:00",
+			"url": "https://www.jmreekes.com/2018/01/22/refueling-flight.html"
+		},
+		
+		{
 			"id": "http://jmreekes.micro.blog/2018/01/21/this-was-taken.html",
 	      	
 			"content_html": "<p>This was taken a few weeks ago somewhere between Telluride, CO (KTEX) and Lubbock, TX (KLBB).</p>\n\n<p><img src=\"http://www.jmreekes.com/uploads/2018/80789ef05a.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +85,6 @@
 			"content_html": "<p>We saw a Santa in a bass boat inflatable tonight while riding and looking at Christmas lights. Alistair (my 4 yr. old son) looks at it and says “Granddaddy’s boat is bigger”</p>\n",
 			"date_published": "2017-12-24T20:49:00-05:00",
 			"url": "https://www.jmreekes.com/2017/12/24/we-saw-a.html"
-		},
-		
-		{
-			"id": "http://jmreekes.micro.blog/2017/12/19/testing-out-out.html",
-	      	
-			"content_html": "<p>Testing out out <a href=\"micro.blog\">Micro.blog</a> for the first time. </p>\n",
-			"date_published": "2017-12-19T15:13:00-05:00",
-			"url": "https://www.jmreekes.com/2017/12/19/testing-out-out.html"
 		}
 		
 	]
