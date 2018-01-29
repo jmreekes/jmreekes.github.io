@@ -1,32 +1,34 @@
-aboutPage: true
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
 
-# - markdown: redcarpet
-highlighter: rouge
+# - markdown: kramdown
 
-domain_# - name: "http://[HOSTNAME]"
-google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_short# - name: 'your-disqus-shortname'
+# Navigation
+nav:
+  - # - name:           "About"
+    href:           "/about/"
+  - # - name:           "RSS"
+    href:           "/feed.xml"
 
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
 defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
-    -
-        scope:
-            path: ""
-            type: drafts
-        values:
-            layout: post
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
 
 title: "Jimmy Reekes III"
 tagline: ""
