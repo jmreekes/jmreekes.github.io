@@ -25,7 +25,7 @@ layout: default
 {% for post in paginator.posts %}
   <div class="list-item h-entry">
 	{% if post.microblog == false %}
-		<h1 class="page-title">{{ post.title }}</h1>
+		<h1 class="home-title">{{ post.title }}</h1>
 	{% endif %}
     <div class="content post e-content">
       {{ post.content }}
