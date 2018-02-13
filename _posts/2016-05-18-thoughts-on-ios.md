@@ -2,7 +2,7 @@
 layout: post
 title: "Thoughts on iOS Third-Party Keyboards"
 microblog: false
-date: 2016-05-18 08:12 -0500
+date: 2016-05-18 06:12 -0700
 guid: http://jmreekes.micro.blog/2016/05/18/thoughts-on-ios.html
 ---
 <em>Update: Added a restriction that I was aware of but had forgotten about. </em>
