@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-04 21:06 -0700
+date: 2018-01-04 20:06 -0800
 guid: http://jmreekes.micro.blog/2018/01/05/picture-of-the.html
 ---
 Picture of the sunset on New Year’s Eve from Nassau, Bahamas. 
