@@ -2,7 +2,7 @@
 layout: post
 title: "Ulysses v2.6 review"
 microblog: false
-date: 2016-08-08 06:33 -0700
+date: 2016-08-08 05:33 -0800
 guid: http://jmreekes.micro.blog/2016/08/08/ulysses-v-review.html
 ---
 My favorite text editor, <a href="https://itunes.apple.com/us/app/ulysses/id950335311?mt=8&amp;uo=4&amp;at=1l3vx9E">Ulysses</a>, just received an update to version 2.6, and it is amazing. There are a few additions to Ulysses in v2.6 but the biggest one has to be WordPress publishing for WordPress.com and self-hosted WordPress sites. This isn&#039;t just a publish a draft to WordPress option, nuh-uh, this is a full-blown, do it how you want, WordPress publishing. Whether you want to publish immediately, schedule it for a particular date and time, or publish a draft, Ulysses can do it. Ulysses also includes options for excerpt, featured image, tags, post type, slug, and title link options. Simply put, you should have no problem publishing to WordPress the way you want. Though not part of the WordPress publishing option, support for exporting as Rich Text was added and may be useful for SquareSpace users.
