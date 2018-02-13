@@ -51,5 +51,5 @@ github_username: ""
 instagram_username: ""
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "US/Michigan"
+timezone: "US/Mountain"
 site_id: "2084"
