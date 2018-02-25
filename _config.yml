@@ -4,13 +4,6 @@
 
 # - markdown: kramdown
 
-# Navigation
-nav:
-  - # - name:           "About"
-    href:           "/about/"
-  - # - name:           "RSS"
-    href:           "/feed.xml"
-
 # Sass
 sass:
   style:            :compressed
