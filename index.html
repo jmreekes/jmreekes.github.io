@@ -13,9 +13,7 @@ layout: default
 		{% endif %}
 	{% endfor %}
 
-    {% for nav in site.nav %}
-    <a href="{{ nav.href }}">{{ nav.name }}</a>
-    {% endfor %}
+	<a class="page-link" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
   </nav>
 </header>
 <div class="content list h-feed">
