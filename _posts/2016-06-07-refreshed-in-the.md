@@ -2,7 +2,7 @@
 layout: post
 title: "Refreshed in the Wind"
 microblog: false
-date: 2016-06-07 10:39 -0800
+date: 2016-06-07 13:39 -0500
 guid: http://jmreekes.micro.blog/2016/06/07/refreshed-in-the.html
 ---
 I have always enjoyed watching airplanes take off and land, and fly overhead. As a kid, whenever we drove past an airport I remember looking as hard as I could in the hopes I would see an airplane, even if I knew I wouldn't see one.<sup><a id="ffn1" class="footnote" href="#fn1">1</a></sup>  I can remember my dad stopping on the side of the road to let me watch a plane take off or land. My son is the same way I was as a kid, and yes, I have stopped the car to let him watch an airplane. Why do we do this? I was reminded earlier of a quote from one of my favorite books that I think perfectly describes why.
