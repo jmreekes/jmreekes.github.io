@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-20 19:19 -0800
+date: 2018-01-20 22:19 -0500
 guid: http://jmreekes.micro.blog/2018/01/21/flying-past-a.html
 ---
 Flying past a misty San Francisco Bay on the way to Napa, CA (KAPC) a few weeks ago. 
