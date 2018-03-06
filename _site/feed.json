@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jmreekes.micro.blog/2018/03/06/ive-been-enjoying.html",
+	      	
+			"content_html": "<p>I’ve been enjoying using Things again after the v3.4 update, especially after getting some workflows and Drafts actions for adding tasks and projects. I love being able to type out multiple tasks for different projects in Drafts and have them all created in one pass to Things.</p>\n",
+			"date_published": "2018-03-06T09:25:00-05:00",
+			"url": "https://www.jmreekes.com/2018/03/06/ive-been-enjoying.html"
+		},
+		
+		{
+			"id": "http://jmreekes.micro.blog/2018/03/06/im-registering-my.html",
+	      	
+			"content_html": "<p>I’m registering my son for kindergarten later this morning. Time does indeed fly-by quickly when you have children. </p>\n",
+			"date_published": "2018-03-06T09:23:00-05:00",
+			"url": "https://www.jmreekes.com/2018/03/06/im-registering-my.html"
+		},
+		
+		{
 			"id": "http://jmreekes.micro.blog/2018/03/03/i-have-now.html",
 	      	
 			"content_html": "<p>I have now been to—or at least traveled through a portion of—all the lower 48 U.S. states. Kansas is the only state where I haven’t been to a city, just traveled through.</p>\n",
