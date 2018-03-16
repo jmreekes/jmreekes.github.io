@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-07 23:07 -0500
 guid: http://jmreekes.micro.blog/2018/01/08/ive-been-thinking.html
 ---
