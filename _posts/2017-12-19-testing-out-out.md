@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-12-19 15:13 -0500
 guid: http://jmreekes.micro.blog/2017/12/19/testing-out-out.html
 ---
