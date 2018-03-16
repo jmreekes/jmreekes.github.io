@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-01-19 11:30 -0500
 guid: http://jmreekes.micro.blog/2018/01/19/heres-a-picture.html
 ---
