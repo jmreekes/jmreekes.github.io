@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jmreekes.micro.blog/2018/03/16/checkride-tomorrow-and.html",
+	      	
+			"content_html": "<p>Checkride tomorrow and then I will be finished with recurrent training for another 6 months. </p>\n",
+			"date_published": "2018-03-15T20:20:00-05:00",
+			"url": "https://www.jmreekes.com/2018/03/15/checkride-tomorrow-and.html"
+		},
+		
+		{
 			"id": "http://jmreekes.micro.blog/2018/03/06/ive-been-enjoying.html",
 	      	
 			"content_html": "<p>I’ve been enjoying using Things again after the v3.4 update, especially after getting some workflows and Drafts actions for adding tasks and projects. I love being able to type out multiple tasks for different projects in Drafts and have them all created in one pass to Things.</p>\n",
