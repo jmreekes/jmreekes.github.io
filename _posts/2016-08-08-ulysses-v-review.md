@@ -2,6 +2,7 @@
 layout: post
 title: "Ulysses v2.6 review"
 microblog: false
+audio: 
 date: 2016-08-08 08:33 -0500
 guid: http://jmreekes.micro.blog/2016/08/08/ulysses-v-review.html
 ---
