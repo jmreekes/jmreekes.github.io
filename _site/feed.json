@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jmreekes.micro.blog/2018/03/22/my-wife-and.html",
+	      	
+			"content_html": "<p>My wife and I started The Man in the High Castle this week and we are hooked. One episode left in season 1 and then on to season 2.</p>\n",
+			"date_published": "2018-03-21T22:01:00-05:00",
+			"url": "https://www.jmreekes.com/2018/03/21/my-wife-and.html"
+		},
+		
+		{
 			"id": "http://jmreekes.micro.blog/2018/03/16/checkride-tomorrow-and.html",
 	      	
 			"content_html": "<p>Checkride tomorrow and then I will be finished with recurrent training for another 6 months. </p>\n",
