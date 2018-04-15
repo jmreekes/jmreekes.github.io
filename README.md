@@ -1,21 +1,15 @@
-# Kiko
+# _Neo Cactus_ for Jekyll
 
-[Kiko](http://github.com/gfjaru/Kiko) is a theme for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
+#### Demo: [https://mmarfil.com/](https://mmarfil.com/)
 
-[See it live](https://kiko.gfjaru.com/)
+## Screenshot
 
-## Get Started
+![screenshot](screenshot/home.png)
 
-1. Fork this repository
-2. Clone the repository to your computer.<br />`git clone https://github.com/YOURUSERNAME/Kiko`  
-3. Run it.<br />`jekyll serve`
-4. Go to http://127.0.0.1:4000.
+This Jekyll theme started as a port of [Cactus](https://github.com/eudicots/Cactus) to my own needs, but I ended up performing a lot more modifications than expected. Some people reached me out and asked if I could share it, so here we are.
 
-## Make it yours
+#### Disclaimer: I'm only a designer, so please don't expect the code to be pretty.
 
-1. Change name and add/remove nav at `_config.yml`.
-2. Change `about.md`.
+## Usage
+To start your project, [fork this respository](https://github.com/mmarfil/neocactus/fork), put in your content, and go!
 
-## License
-
-This theme is released under MIT License.
