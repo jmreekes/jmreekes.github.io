@@ -1,14 +1,14 @@
 <nav class="main-nav">
-    {% if page.url != "/index.html" %}
-        <a href="{{ site.baseurl }}/"> <span class="arrow">←</span> Home </a>
-    {% endif %}
+  {% if page.url != "/" %}
+  <a class="normal" href="{{ "/" | relative_url  }}"> <span class="arrow">←</span> Home</a>
+  {% endif %}
 
 	{% assign sorted_pages = site.pages | sort: "order" %}
 	{% for page in sorted_pages %}
 		{% if page.title %}
-			<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+			<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
 		{% endif %}
 	{% endfor %}
-		
-    <a class="cta" href="{{ site.baseurl }}/feed.xml">RSS</a>
+
+  <a class="cta" href="https://micro.blog/{{ site.microblog_user }}" rel="me">Also on Micro.blog</a>
 </nav>
