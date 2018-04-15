@@ -1,27 +1,22 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
+highlighter: "rouge"
+# - markdown: "kramdown"
 
-# - markdown: kramdown
-
-# Sass
-sass:
-  style:            :compressed
-
-# Scopes
 defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+
+plugins:
+  - jekyll-sitemap
 
 title: "Jimmy Reekes III"
 tagline: ""
@@ -31,6 +26,7 @@ baseurl: ""
 url: "https://www.jmreekes.com"
 markdown: "kramdown"
 username: "jmreekes"
+microblog_user: "jmreekes"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Jimmy Reekes III"
@@ -47,3 +43,5 @@ paginate_path: "/page/:num/"
 timezone: "US/Michigan"
 site_id: "2084"
 gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
