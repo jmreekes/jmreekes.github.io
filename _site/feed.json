@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jmreekes.micro.blog/2018/05/03/you-know-that.html",
+	      	
+			"content_html": "<p>You know that thing where there was something you wanted to remember to do, pick up your phone to enter it in your task manager of choice, get distracted before you capture what you wanted to remember, and then forgot what you wanted to remember. That thing sucks.</p>\n",
+			"date_published": "2018-05-03T00:38:48-04:00",
+			"url": "https://www.jmreekes.com/2018/05/03/you-know-that.html"
+		},
+		
+		{
 			"id": "http://jmreekes.micro.blog/2018/05/03/my-yr-old.html",
 	      	
 			"content_html": "<p>My 4 yr old was excited to have some “Daddy-Alistair time” this evening. We played at the park, had “don-don lunch” (McDonald’s), and let him get a toy. A very enjoyable evening.</p>\n",
@@ -207,14 +215,6 @@
 			"content_html": "<p>We saw a Santa in a bass boat inflatable tonight while riding and looking at Christmas lights. Alistair (my 4 yr. old son) looks at it and says “Granddaddy’s boat is bigger”</p>\n",
 			"date_published": "2017-12-24T20:49:31-05:00",
 			"url": "https://www.jmreekes.com/2017/12/24/we-saw-a.html"
-		},
-		
-		{
-			"id": "http://jmreekes.micro.blog/2017/12/19/testing-out-out.html",
-	      	
-			"content_html": "<p>Testing out out <a href=\"micro.blog\">Micro.blog</a> for the first time.</p>\n",
-			"date_published": "2017-12-19T15:13:27-05:00",
-			"url": "https://www.jmreekes.com/2017/12/19/testing-out-out.html"
 		}
 		
 	]
