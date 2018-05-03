@@ -45,3 +45,4 @@ site_id: "2084"
 gems: ["jekyll-paginate"]
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
+itunes_author: "Jimmy Reekes III"
