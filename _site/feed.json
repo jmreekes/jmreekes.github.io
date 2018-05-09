@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jmreekes.micro.blog/2018/05/09/if-all-goes.html",
+	      	
+			"content_html": "<p>If all goes well, construction on the house should finish on Friday. It’s taken a while to get to this point, but the end is in sight.</p>\n",
+			"date_published": "2018-05-09T14:14:11-04:00",
+			"url": "https://www.jmreekes.com/2018/05/09/if-all-goes.html"
+		},
+		
+		{
 			"id": "http://jmreekes.micro.blog/2018/05/03/you-know-that.html",
 	      	
 			"content_html": "<p>You know that thing where there was something you wanted to remember to do, pick up your phone to enter it in your task manager of choice, get distracted before you capture what you wanted to remember, and then forgot what you wanted to remember. That thing sucks.</p>\n",
@@ -207,14 +215,6 @@
 			"content_html": "<p>I finished moving everything to FastMail yesterday. Gmail, iCloud, and my junk Yahoo account are all forwarding to FastMail, I have Gmail and iCloud sending identities setup so I can send using Gmail and iCloud SMTP servers. Calendars and Contacg have been moved as well.</p>\n",
 			"date_published": "2017-12-28T11:41:49-05:00",
 			"url": "https://www.jmreekes.com/2017/12/28/i-finished-moving.html"
-		},
-		
-		{
-			"id": "http://jmreekes.micro.blog/2017/12/25/we-saw-a.html",
-	      	
-			"content_html": "<p>We saw a Santa in a bass boat inflatable tonight while riding and looking at Christmas lights. Alistair (my 4 yr. old son) looks at it and says “Granddaddy’s boat is bigger”</p>\n",
-			"date_published": "2017-12-24T20:49:31-05:00",
-			"url": "https://www.jmreekes.com/2017/12/24/we-saw-a.html"
 		}
 		
 	]
