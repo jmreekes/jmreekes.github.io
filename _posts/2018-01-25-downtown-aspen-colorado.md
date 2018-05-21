@@ -3,7 +3,7 @@ layout: post
 title: "Downtown Aspen, Colorado"
 microblog: false
 audio: 
-date: 2018-01-24 21:30:59 -0500
+date: 2018-01-24 22:30:59 -0400
 guid: http://jmreekes.micro.blog/2018/01/25/downtown-aspen-colorado.html
 ---
 
