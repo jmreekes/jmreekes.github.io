@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://jmreekes.micro.blog/2018/05/28/truth-or-consequences.html",
+	      	
+			"title": "Truth or Consequences, New Mexico",
+			
+			"content_html": "<p><a href=\"http://www.jmreekes.com/uploads/2018/9ab662718e.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/9ab662718e.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jmreekes.com/uploads/2018/9dd6cfdb28.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/9dd6cfdb28.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jmreekes.com/uploads/2018/515bd18773.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/515bd18773.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Pictures from the Truth or Consequences, New Mexico airport. Yes, Truth or Consequences is the name of the town but I only got to see the airport for a few minutes.</p>\n",
+			"date_published": "2018-05-28T14:33:03-04:00",
+			"url": "https://www.jmreekes.com/2018/05/28/truth-or-consequences.html"
+		},
+		
+		{
 			"id": "http://jmreekes.micro.blog/2018/05/28/fairhope-alabama.html",
 	      	
 			"title": "Fairhope, Alabama",
@@ -20,7 +30,7 @@
 	      	
 			"title": "Fairhope, Alabama",
 			
-			"content_html": "<p>I took these in Fairhope, Alabama last week.</p>\n",
+			"content_html": "<p><a href=\"http://www.jmreekes.com/uploads/2018/f1fd3882ab.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/f1fd3882ab.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jmreekes.com/uploads/2018/fa16bf4d5b.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/fa16bf4d5b.jpg\" width=\"600\" height=\"449\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>I took these in Fairhope, Alabama last week.</p>\n",
 			"date_published": "2018-05-28T14:27:56-04:00",
 			"url": "https://www.jmreekes.com/2018/05/28/182756.html"
 		},
@@ -211,14 +221,6 @@
 			"content_html": "<p>These aren’t exactly travel photos, but photos of one of the coolest things I’ve ever gotten the opportunity to do. Back when I was flight instructing, we got a call out of the blue from somebody from the nearby Air Force Base asking if we could do a flight for an actor that was in town for an event at the base and we said yes. After the flight, the gentleman from the Air Force Base told me he had set me up on an incentive flight on a refueling flight. I rode on a KC-135R and we refueled 2 F-15Es off the coast of North Carolina.</p>\n\n<p><img src=\"http://www.jmreekes.com/uploads/2018/08f0a05e12.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.jmreekes.com/uploads/2018/bc8019df86.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.jmreekes.com/uploads/2018/877746e370.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-01-22T10:28:06-05:00",
 			"url": "https://www.jmreekes.com/2018/01/22/refueling-flight.html"
-		},
-		
-		{
-			"id": "http://jmreekes.micro.blog/2018/01/21/this-was-taken.html",
-	      	
-			"content_html": "<p>This was taken a few weeks ago somewhere between Telluride, CO (KTEX) and Lubbock, TX (KLBB).</p>\n\n<p><img src=\"http://www.jmreekes.com/uploads/2018/80789ef05a.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-21T17:31:35-05:00",
-			"url": "https://www.jmreekes.com/2018/01/21/this-was-taken.html"
 		}
 		
 	]
