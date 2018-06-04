@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jmreekes.micro.blog/2018/06/03/i-got-my.html",
+	      	
+			"content_html": "<p>I got my iPad Mini 2 updated to iOS 11.4 and update a bunch of apps yesterday. Not having WiFi, or internet at all, at the new house yet sucks. Hopefully the phone line will get buried this week. Yes phone line means DSL, but it’s DSL or satellite internet, so I choose DSL</p>\n",
+			"date_published": "2018-06-03T14:29:32-04:00",
+			"url": "https://www.jmreekes.com/2018/06/03/i-got-my.html"
+		},
+		
+		{
 			"id": "http://jmreekes.micro.blog/2018/05/28/truth-or-consequences.html",
 	      	
 			"title": "Truth or Consequences, New Mexico",
@@ -211,16 +219,6 @@
 			"content_html": "<p><img src=\"http://www.jmreekes.com/uploads/2018/f9e0cae939.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /><img src=\"http://www.jmreekes.com/uploads/2018/d661f1f9f7.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /><img src=\"http://www.jmreekes.com/uploads/2018/890fe86bf9.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /><img src=\"http://www.jmreekes.com/uploads/2018/c8e59039d1.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /></p>\n\n<p>Photos from an Aspen, CO overnight in July 2017</p>\n\n",
 			"date_published": "2018-01-24T21:30:59-05:00",
 			"url": "https://www.jmreekes.com/2018/01/24/downtown-aspen-colorado.html"
-		},
-		
-		{
-			"id": "http://jmreekes.micro.blog/2018/01/22/refueling-flight.html",
-	      	
-			"title": "Refueling Flight",
-			
-			"content_html": "<p>These aren’t exactly travel photos, but photos of one of the coolest things I’ve ever gotten the opportunity to do. Back when I was flight instructing, we got a call out of the blue from somebody from the nearby Air Force Base asking if we could do a flight for an actor that was in town for an event at the base and we said yes. After the flight, the gentleman from the Air Force Base told me he had set me up on an incentive flight on a refueling flight. I rode on a KC-135R and we refueled 2 F-15Es off the coast of North Carolina.</p>\n\n<p><img src=\"http://www.jmreekes.com/uploads/2018/08f0a05e12.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.jmreekes.com/uploads/2018/bc8019df86.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.jmreekes.com/uploads/2018/877746e370.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-01-22T10:28:06-05:00",
-			"url": "https://www.jmreekes.com/2018/01/22/refueling-flight.html"
 		}
 		
 	]
