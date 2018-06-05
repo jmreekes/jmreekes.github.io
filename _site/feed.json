@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jmreekes.micro.blog/2018/06/04/i-didnt-get.html",
+	      	
+			"content_html": "<p>I didn’t get to watch the #WWDC Keynote, but I did follow along with a live blog. I’m really looking forward to iOS 12.</p>\n",
+			"date_published": "2018-06-04T17:51:06-04:00",
+			"url": "https://www.jmreekes.com/2018/06/04/i-didnt-get.html"
+		},
+		
+		{
 			"id": "http://jmreekes.micro.blog/2018/06/03/i-got-my.html",
 	      	
 			"content_html": "<p>I got my iPad Mini 2 updated to iOS 11.4 and update a bunch of apps yesterday. Not having WiFi, or internet at all, at the new house yet sucks. Hopefully the phone line will get buried this week. Yes phone line means DSL, but it’s DSL or satellite internet, so I choose DSL</p>\n",
@@ -209,16 +217,6 @@
 			"content_html": "<p><a href=\"http://www.jmreekes.com/uploads/2018/4bea0fd11d.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/4bea0fd11d.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a><a href=\"http://www.jmreekes.com/uploads/2018/b97c3ebf0f.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/b97c3ebf0f.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a></p>\n\n<p>Looking west towards Lake Michigan. Taken July 7, 2016</p>\n\n",
 			"date_published": "2018-02-03T12:27:59-05:00",
 			"url": "https://www.jmreekes.com/2018/02/03/charlevoix-michigan.html"
-		},
-		
-		{
-			"id": "http://jmreekes.micro.blog/2018/01/25/downtown-aspen-colorado.html",
-	      	
-			"title": "Downtown Aspen, Colorado",
-			
-			"content_html": "<p><img src=\"http://www.jmreekes.com/uploads/2018/f9e0cae939.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /><img src=\"http://www.jmreekes.com/uploads/2018/d661f1f9f7.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /><img src=\"http://www.jmreekes.com/uploads/2018/890fe86bf9.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /><img src=\"http://www.jmreekes.com/uploads/2018/c8e59039d1.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto;\" /></p>\n\n<p>Photos from an Aspen, CO overnight in July 2017</p>\n\n",
-			"date_published": "2018-01-24T21:30:59-05:00",
-			"url": "https://www.jmreekes.com/2018/01/24/downtown-aspen-colorado.html"
 		}
 		
 	]
