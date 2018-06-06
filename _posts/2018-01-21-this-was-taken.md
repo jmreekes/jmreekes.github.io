@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-21 18:31:35 -0400
+date: 2018-01-21 16:31:35 -0600
 guid: http://jmreekes.micro.blog/2018/01/21/this-was-taken.html
 ---
 This was taken a few weeks ago somewhere between Telluride, CO (KTEX) and Lubbock, TX (KLBB).
