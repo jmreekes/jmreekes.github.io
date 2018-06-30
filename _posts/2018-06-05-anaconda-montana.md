@@ -3,7 +3,7 @@ layout: post
 title: "Anaconda, Montana"
 microblog: false
 audio: 
-date: 2018-06-05 15:24:27 -0600
+date: 2018-06-05 17:24:27 -0400
 guid: http://jmreekes.micro.blog/2018/06/05/anaconda-montana.html
 ---
 
