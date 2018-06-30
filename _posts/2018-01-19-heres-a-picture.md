@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-19 10:30:45 -0600
+date: 2018-01-19 12:30:45 -0400
 guid: http://jmreekes.micro.blog/2018/01/19/heres-a-picture.html
 ---
 Here’s a picture I took a few weeks ago on approach into Telluride, Colorado (KTEX). I promise there is a runway in the picture.
