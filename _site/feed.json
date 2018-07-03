@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jmreekes.micro.blog/2018/07/03/we-got-rid.html",
+	      	
+			"content_html": "<p>We got rid of Sling and signed up for DirecTV Now. We’re paying the same amount but DirecTV Now has more channels that we watch.</p>\n",
+			"date_published": "2018-07-03T09:37:46-04:00",
+			"url": "https://www.jmreekes.com/2018/07/03/we-got-rid.html"
+		},
+		
+		{
+			"id": "http://jmreekes.micro.blog/2018/07/03/ive-been-using.html",
+	      	
+			"content_html": "<p>I’ve been using Apple Mail on my iPhone and iPad the last few days. I’ve been enjoying using it. The same goes the iOS Calendar app. Having this <a href=\"https://polymaths.blog/2018/06/fantastically-good-event-parser-for-drafts-5\">Fantastically Good Event Parser for Drafts 5</a> has been nothing short of awesome.</p>\n",
+			"date_published": "2018-07-03T09:36:41-04:00",
+			"url": "https://www.jmreekes.com/2018/07/03/ive-been-using.html"
+		},
+		
+		{
 			"id": "http://jmreekes.micro.blog/2018/06/05/anaconda-montana.html",
 	      	
 			"title": "Anaconda, Montana",
@@ -197,26 +213,6 @@
 			"content_html": "<p>I have now been to—or at least traveled through a portion of—all the lower 48 U.S. states. Kansas is the only state where I haven’t been to a city, just traveled through.</p>\n",
 			"date_published": "2018-03-03T11:27:20-05:00",
 			"url": "https://www.jmreekes.com/2018/03/03/i-have-now.html"
-		},
-		
-		{
-			"id": "http://jmreekes.micro.blog/2018/02/25/kennedy-space-center.html",
-	      	
-			"title": "Kennedy Space Center",
-			
-			"content_html": "<p><a href=\"http://www.jmreekes.com/uploads/2018/5b2a0770fe.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/5b2a0770fe.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jmreekes.com/uploads/2018/cb5f0e1e83.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/cb5f0e1e83.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Here’s a couple photos of Kennedy Space Center from a few weeks ago. I took these about a week before the Falcon Heavy launch, so I’m pretty sure it’s on one of the launch pads in the background.</p>\n\n",
-			"date_published": "2018-02-25T11:46:56-05:00",
-			"url": "https://www.jmreekes.com/2018/02/25/kennedy-space-center.html"
-		},
-		
-		{
-			"id": "http://jmreekes.micro.blog/2018/02/13/233253.html",
-	      	
-			"title": "Apple Park",
-			
-			"content_html": "<p><a href=\"http://www.jmreekes.com/uploads/2018/6906853748.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/6906853748.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a><a href=\"http://www.jmreekes.com/uploads/2018/77332e7d58.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/77332e7d58.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a><a href=\"http://www.jmreekes.com/uploads/2018/dc388856cd.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/dc388856cd.jpg\" width=\"600\" height=\"600\" style=\"max-height: 200px; width: auto; padding: 1px;\" /></a></p>\n\n<p>Flew over Apple Park on approach to Mountain View/Moffett Federal Airfield (KNUQ.) I cropped one of the photos to get a good look inside.</p>\n\n",
-			"date_published": "2018-02-13T18:32:53-05:00",
-			"url": "https://www.jmreekes.com/2018/02/13/233253.html"
 		}
 		
 	]
