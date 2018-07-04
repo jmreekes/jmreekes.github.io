@@ -3,7 +3,7 @@ layout: post
 title: "Truth or Consequences, New Mexico"
 microblog: false
 audio: 
-date: 2018-05-28 14:33:03 -0400
+date: 2018-05-28 11:33:03 -0700
 guid: http://jmreekes.micro.blog/2018/05/28/truth-or-consequences.html
 ---
 
