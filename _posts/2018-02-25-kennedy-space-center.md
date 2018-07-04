@@ -3,7 +3,7 @@ layout: post
 title: "Kennedy Space Center"
 microblog: false
 audio: 
-date: 2018-02-25 12:46:56 -0400
+date: 2018-02-25 09:46:56 -0700
 guid: http://jmreekes.micro.blog/2018/02/25/kennedy-space-center.html
 ---
 
