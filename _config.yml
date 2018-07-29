@@ -40,9 +40,10 @@ github_username: ""
 instagram_username: ""
 paginate: 20
 paginate_path: "/page/:num/"
-timezone: "US/Pacific-New"
+timezone: "US/Michigan"
 site_id: "2084"
 gems: ["jekyll-paginate"]
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Jimmy Reekes III"
+podcast: false
