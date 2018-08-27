@@ -1,0 +1,13 @@
+---
+layout: post
+microblog: true
+audio: 
+date: 2018-07-04 17:47:01 -0400
+guid: http://jmreekes.micro.blog/2018/07/04/sedona-arizona.html
+---
+
+
+<a href="http://www.jmreekes.com/uploads/2018/464d480745.jpg"><img src="http://www.jmreekes.com/uploads/2018/464d480745.jpg" width="600" height="450" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://www.jmreekes.com/uploads/2018/01a48692f9.jpg"><img src="http://www.jmreekes.com/uploads/2018/01a48692f9.jpg" width="600" height="450" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://www.jmreekes.com/uploads/2018/dc045ad235.jpg"><img src="http://www.jmreekes.com/uploads/2018/dc045ad235.jpg" width="600" height="450" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://www.jmreekes.com/uploads/2018/dc4a0aa8c1.jpg"><img src="http://www.jmreekes.com/uploads/2018/dc4a0aa8c1.jpg" width="600" height="450" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://www.jmreekes.com/uploads/2018/e0eed2dfdf.jpg"><img src="http://www.jmreekes.com/uploads/2018/e0eed2dfdf.jpg" width="600" height="450" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://www.jmreekes.com/uploads/2018/9c4e290c53.jpg"><img src="http://www.jmreekes.com/uploads/2018/9c4e290c53.jpg" width="600" height="450" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://www.jmreekes.com/uploads/2018/2d0243bf4d.jpg"><img src="http://www.jmreekes.com/uploads/2018/2d0243bf4d.jpg" width="600" height="450" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://www.jmreekes.com/uploads/2018/1a9f7a7cf6.jpg"><img src="http://www.jmreekes.com/uploads/2018/1a9f7a7cf6.jpg" width="600" height="450" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://www.jmreekes.com/uploads/2018/47a68d7362.jpg"><img src="http://www.jmreekes.com/uploads/2018/47a68d7362.jpg" width="600" height="450" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a><a href="http://www.jmreekes.com/uploads/2018/44daed8184.jpg"><img src="http://www.jmreekes.com/uploads/2018/44daed8184.jpg" width="600" height="450" style="display: inline-block; max-height: 200px; width: auto; padding: 1px;" class="sunlit_image" /></a>
+
+Sedona, Arizona
+
