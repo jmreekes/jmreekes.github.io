@@ -43,7 +43,9 @@ paginate_path: "/page/:num/"
 timezone: "US/Michigan"
 site_id: "2084"
 gems: ["jekyll-paginate"]
+itunes_description: "Lover and follower of Christ, Pilot, Pen addict, Coffee addict, and airplane nut"
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Jimmy Reekes III"
+itunes_email: ""
 podcast: false
