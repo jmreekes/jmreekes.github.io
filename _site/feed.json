@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jimmy Reekes III",
+	"icon": "https://micro.blog/jmreekes/avatar.jpg",
 	"home_page_url": "https://www.jmreekes.com/",
 	"feed_url": "https://www.jmreekes.com/feed.json",
 	"items": [
+		
+		{
+			"id": "http://jmreekes.micro.blog/2018/10/09/im-loving-my.html",
+	      	
+			"content_html": "<p>I’m loving my Rickshaw Bagworks pen sleeves and Hemingway pen roll. I got a single pen sleeve, a dual pen sleeve, and the Hemingway is a custom color way (Ranger exterior and red interior). One Star Leather pen sleeve for comparison.</p>\n\n<p><img src=\"http://www.jmreekes.com/uploads/2018/2c8ea0b074.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.jmreekes.com/uploads/2018/c94972f3d5.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.jmreekes.com/uploads/2018/fd26dc4ebd.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.jmreekes.com/uploads/2018/f11472bbef.jpg\" width=\"600\" height=\"600\" /><img src=\"http://www.jmreekes.com/uploads/2018/53b1242db6.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-08T20:27:36-04:00",
+			"url": "https://www.jmreekes.com/2018/10/08/im-loving-my.html"
+		},
 		
 		{
 			"id": "http://jmreekes.micro.blog/2018/08/26/steamboat-springs-colorado.html",
@@ -205,16 +214,6 @@
 			"content_html": "<p>I have moved <a href=\"https://www.pensandplanes.com/2018/03/30/switching-to-blot-im\">Pens and Planes</a> to Blot.im</p>\n",
 			"date_published": "2018-03-30T22:05:40-04:00",
 			"url": "https://www.jmreekes.com/2018/03/30/i-have-moved.html"
-		},
-		
-		{
-			"id": "http://jmreekes.micro.blog/2018/03/30/airport-sunrise.html",
-	      	
-			"title": "Airport Sunrise",
-			
-			"content_html": "<p><a href=\"http://www.jmreekes.com/uploads/2018/fe38ef278b.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/fe38ef278b.jpg\" width=\"600\" height=\"449\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Sunrise from the Opa Locka, Florida airport (KOPF), which is a few miles north of Miami.</p>\n",
-			"date_published": "2018-03-30T07:36:44-04:00",
-			"url": "https://www.jmreekes.com/2018/03/30/airport-sunrise.html"
 		}
 		
 	]
