@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jimmy Reekes III",
+	"icon": "https://micro.blog/jmreekes/avatar.jpg",
 	"home_page_url": "https://www.jmreekes.com/",
 	"feed_url": "https://www.jmreekes.com/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://jmreekes.micro.blog/2018/10/09/im-loving-my.html",
+	      	
+			"content_text": "I’m loving my Rickshaw Bagworks pen sleeves and Hemingway pen...",
+			"date_published": "2018-10-08T20:27:36-04:00",
+			"url": "https://www.jmreekes.com/2018/10/08/im-loving-my.html"
+		},
 		
 		{
 			"id": "http://jmreekes.micro.blog/2018/08/26/steamboat-springs-colorado.html",
