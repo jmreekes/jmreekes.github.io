@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jmreekes.micro.blog/2018/10/14/father-and-son.html",
+	      	
+			"content_html": "<p>Father and Son Shadows</p>\n\n<p><img src=\"http://www.jmreekes.com/uploads/2018/37783c4c84.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-13T20:04:42-04:00",
+			"url": "https://www.jmreekes.com/2018/10/13/father-and-son.html"
+		},
+		
+		{
 			"id": "http://jmreekes.micro.blog/2018/10/09/i-ordered-a.html",
 	      	
 			"content_html": "<p><a href=\"http://www.jmreekes.com/uploads/2018/d45dcaf2e2.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/d45dcaf2e2.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jmreekes.com/uploads/2018/8648377746.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/8648377746.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jmreekes.com/uploads/2018/de6c60404e.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/de6c60404e.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://www.jmreekes.com/uploads/2018/8e397d079f.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/8e397d079f.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>I ordered a <a href=\"KarasKustoms.com\">Karas Pen Co</a> Pen Club Coin, a black Galaxie XL, and a Pen Club Monsoon Galaxie XL. I love the Galaxie XL</p>\n\n",
@@ -206,14 +214,6 @@
 			"content_html": "<p>You know that thing where there was something you wanted to remember to do, pick up your phone to enter it in your task manager of choice, get distracted before you capture what you wanted to remember, and then forgot what you wanted to remember. That thing sucks.</p>\n",
 			"date_published": "2018-05-03T00:38:48-04:00",
 			"url": "https://www.jmreekes.com/2018/05/03/you-know-that.html"
-		},
-		
-		{
-			"id": "http://jmreekes.micro.blog/2018/05/03/my-yr-old.html",
-	      	
-			"content_html": "<p>My 4 yr old was excited to have some “Daddy-Alistair time” this evening. We played at the park, had “don-don lunch” (McDonald’s), and let him get a toy. A very enjoyable evening.</p>\n",
-			"date_published": "2018-05-02T20:19:50-04:00",
-			"url": "https://www.jmreekes.com/2018/05/02/my-yr-old.html"
 		}
 		
 	]
