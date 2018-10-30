@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://jmreekes.micro.blog/2018/10/30/im-looking-forward.html",
+	      	
+			"content_html": "<p>I’m looking forward to the updated iPad Pro and Apple Pencil. I’m probably gonna get a new non-pro iPad later this year but am not ruling out an iPad Pro.</p>\n",
+			"date_published": "2018-10-30T10:19:41-04:00",
+			"url": "https://www.jmreekes.com/2018/10/30/im-looking-forward.html"
+		},
+		
+		{
 			"id": "http://jmreekes.micro.blog/2018/10/17/sunset.html",
 	      	
 			"content_html": "<p><a href=\"http://www.jmreekes.com/uploads/2018/a2d2e61129.jpg\"><img src=\"http://www.jmreekes.com/uploads/2018/a2d2e61129.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Sunset 2018-10-17</p>\n\n",
@@ -206,14 +214,6 @@
 			"content_html": "<p><a href=\"https://www.pensandplanes.com/fisher-ag7-review\">Fisher AG7 Review</a></p>\n",
 			"date_published": "2018-05-10T22:36:21-04:00",
 			"url": "https://www.jmreekes.com/2018/05/10/023621.html"
-		},
-		
-		{
-			"id": "http://jmreekes.micro.blog/2018/05/09/if-all-goes.html",
-	      	
-			"content_html": "<p>If all goes well, construction on the house should finish on Friday. It’s taken a while to get to this point, but the end is in sight.</p>\n",
-			"date_published": "2018-05-09T14:14:11-04:00",
-			"url": "https://www.jmreekes.com/2018/05/09/if-all-goes.html"
 		}
 		
 	]
